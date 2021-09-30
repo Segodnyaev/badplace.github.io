@@ -1,0 +1,1 @@
+""badplace.ru""
