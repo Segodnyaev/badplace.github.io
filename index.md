@@ -1,1 +1,1 @@
-""badplace.ru""
+# badplace.ru
